@@ -1,0 +1,57 @@
+<mxfile host="app.diagrams.net" modified="2023-11-23T11:32:32.623Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="lzRYCuAJvSmskKIItav8" version="22.1.3" type="device">
+  <diagram name="ページ1" id="4ScZVgxqjZZmapO3-5xI">
+    <mxGraphModel dx="1271" dy="348" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="XQOGs732VhXmUBnCtgFj-7" value="Foam&lt;br style=&quot;font-size: 20px;&quot;&gt;7.4mm" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;align=left;spacingLeft=10;" vertex="1" parent="1">
+          <mxGeometry x="280" y="1310" width="320" height="740" as="geometry" />
+        </mxCell>
+        <mxCell id="XQOGs732VhXmUBnCtgFj-1" value="PCB&lt;br style=&quot;font-size: 20px;&quot;&gt;1.6mm" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry y="1150" width="600" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="XQOGs732VhXmUBnCtgFj-3" value="MCU PCB&lt;br style=&quot;font-size: 20px;&quot;&gt;1.6mm" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry y="1510" width="280" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="XQOGs732VhXmUBnCtgFj-4" value="USB Recptacle&lt;br style=&quot;font-size: 20px;&quot;&gt;3.0mm" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry y="1670" width="200" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="XQOGs732VhXmUBnCtgFj-5" value="Case (Bottom)&#xa;3.0mm" style="rounded=0;whiteSpace=wrap;html=1;align=center;labelPosition=center;verticalLabelPosition=middle;verticalAlign=middle;spacingLeft=10;spacingRight=30;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry y="2050" width="760" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="XQOGs732VhXmUBnCtgFj-6" value="Pin Header&lt;br&gt;2.0mm" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="40" y="1310" width="120" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="XQOGs732VhXmUBnCtgFj-2" value="Spacer&lt;br style=&quot;font-size: 20px;&quot;&gt;12.0 mm" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="400" y="1150" width="120" height="1200" as="geometry" />
+        </mxCell>
+        <mxCell id="XQOGs732VhXmUBnCtgFj-8" value="Plate&lt;br style=&quot;font-size: 20px;&quot;&gt;1.6mm" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry y="650" width="600" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="XQOGs732VhXmUBnCtgFj-9" value="MX Switch&lt;br style=&quot;font-size: 20px;&quot;&gt;3.4 mm" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="40" y="810" width="206" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="XQOGs732VhXmUBnCtgFj-10" value="Case (Side)&lt;br style=&quot;font-size: 20px;&quot;&gt;14.0&amp;nbsp; mm" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="600" y="650" width="160" height="1400" as="geometry" />
+        </mxCell>
+        <mxCell id="XQOGs732VhXmUBnCtgFj-12" value="Case (Side, extended)&lt;br&gt;6.5 mm" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="600" width="160" height="650" as="geometry" />
+        </mxCell>
+        <mxCell id="XQOGs732VhXmUBnCtgFj-14" value="USB Hole&lt;br&gt;8.5 mm" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry y="1400" width="60" height="850" as="geometry" />
+        </mxCell>
+        <mxCell id="XQOGs732VhXmUBnCtgFj-22" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-10" y="1400" as="sourcePoint" />
+            <mxPoint x="-10" y="650" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XQOGs732VhXmUBnCtgFj-23" value="7.5 mm" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="XQOGs732VhXmUBnCtgFj-22">
+          <mxGeometry x="-0.0187" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
