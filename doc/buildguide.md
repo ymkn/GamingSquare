@@ -40,8 +40,8 @@ GamingSquareは本体となる基板とキースイッチ固定用のトップ�
 
 下記データいずれかをご自宅の3Dプリンタや3Dプリントサービスを使って出力ください。内容はどちらも同じです。
 
-![STEPファイル](https://github.com/ymkn/GamingSquare/releases/download/v1.0/GamingSquare-Case.step)
-![STLファイル](https://github.com/ymkn/GamingSquare/releases/download/v1.0/GamingSquare-Case.stl)
+- STEPファイル https://github.com/ymkn/GamingSquare/releases/download/v1.0/GamingSquare-Case.step
+- STLファイル https://github.com/ymkn/GamingSquare/releases/download/v1.0/GamingSquare-Case.stl
 
 ### 必要なキーキャップとサイズ
 
